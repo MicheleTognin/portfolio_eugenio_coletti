@@ -1080,7 +1080,7 @@ html {
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
-  line-height: 1.42857143;
+  /*line-height: 1.42857143;*/
   color: #333;
   background-color: #fff;
 }
@@ -7127,4 +7127,12 @@ button.close {
 }
 .rounded {
     border-radius: 5px;
+}
+
+
+
+.container i.icon-instagram2 {
+  vertical-align: -webkit-baseline-middle;
+    margin-left: 8px;
+    font-size: 16px;
 }
